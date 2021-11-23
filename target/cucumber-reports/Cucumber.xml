@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="76.413048">
+<testcase classname="Verifying features for demoqa.com" name="To verify Book Store function" time="76.413048">
+<system-out><![CDATA[Given that I am logged in on the profile page...............................passed
+When I entered UserName "demoqaname12"......................................passed
+Then I entered Password "Demoqaabc@-1"......................................passed
+And I clicked on Login button...............................................passed
+And I click and expand Book Store Application...............................passed
+And I click Book Store......................................................passed
+And I search in the search bar "Git Pocket guide"...........................passed
+And I click on the book title 'Git Pocket Guide'............................passed
+And I click on the button 'Add To Your Collection'..........................passed
+And I click Ok when the website shows the message that the book is added to collection.passed
+And I click on Profile......................................................passed
+And I verify that the book title 'Git Pocket Guide' is there................passed
+]]></system-out>
+</testcase>
+</testsuite>

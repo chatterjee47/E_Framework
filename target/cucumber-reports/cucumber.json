@@ -1,0 +1,480 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 538200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "WidgetsAccordianTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 415300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "VerifyWebsitesTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 669700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ActionsTest_ScenarioOne.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 391100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ActionsTest_ScenarioThree.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 423100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "AlertsFrameWindowsBrowserwindowsTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 1146300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "AutocompleteTextFieldTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 539200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "RadiobuttonTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 1444800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ScrollingTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 740300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ActionMoveClickTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 450600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "CheckboxTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 543100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginPortalTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 464400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "JavaScriptClickTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 416100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "PageObjectModelTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 465300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "WebElementClickTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 510600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "FileUploadTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 420100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 534100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "PopupsAlertsTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 450100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "DatepickerTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 453500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "AjaxLoaderTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 357900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "AlertsFrameWindowsNestedFramesTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 268100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "IFramepageTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 350100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "WidgetsDatePickerTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 428700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "WebTablesTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 315400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "admindemoWebSiteFeatureTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 273100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BookStoreTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 354700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "RegistrationTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 441700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "AccordianTextAffectsTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 388600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "DropdownMenuCheckboxeRadioBtnsTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 437300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ActionsTest_ScenarioTwo.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 466800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ButtonsKeywordTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 730000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SelectNMDateTest.Configuration()"
+            }
+          }
+        ],
+        "line": 20,
+        "name": "To verify Book Store function",
+        "description": "",
+        "id": "verifying-features-for-demoqa.com;to-verify-book-store-function;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 17532010400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "that I am logged in on the profile page",
+            "match": {
+              "location": "BookStoreTest.that_I_am_logged_in_on_the_profile_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 14254879200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I entered UserName \"demoqaname12\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "demoqaname12",
+                  "offset": 20
+                }
+              ],
+              "location": "BookStoreTest.i_entered_UserName(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3117372000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I entered Password \"Demoqaabc@-1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Demoqaabc@-1",
+                  "offset": 20
+                }
+              ],
+              "location": "BookStoreTest.i_entered_Password(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3056474500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I clicked on Login button",
+            "match": {
+              "location": "BookStoreTest.i_clicked_on_Login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6029262000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click and expand Book Store Application",
+            "match": {
+              "location": "BookStoreTest.i_click_and_expand_Book_Store_Application()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3085562600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click Book Store",
+            "match": {
+              "location": "BookStoreTest.i_click_Book_Store()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3201958600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I search in the search bar \"Git Pocket guide\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Git Pocket guide",
+                  "offset": 28
+                }
+              ],
+              "location": "BookStoreTest.i_search_in_the_search_bar(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4139007600,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I click on the book title \u0027Git Pocket Guide\u0027",
+            "match": {
+              "location": "BookStoreTest.i_click_on_the_book_title_Git_Pocket_Guide()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6097851500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I click on the button \u0027Add To Your Collection\u0027",
+            "match": {
+              "location": "BookStoreTest.i_click_on_the_button_Add_To_Your_Collection()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9043198000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I click Ok when the website shows the message that the book is added to collection",
+            "match": {
+              "location": "BookStoreTest.i_click_Ok_when_the_website_shows_the_message_that_the_book_is_added_to_collection()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6071483700,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on Profile",
+            "match": {
+              "location": "BookStoreTest.i_click_on_Profile()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 768159300,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I verify that the book title \u0027Git Pocket Guide\u0027 is there",
+            "match": {
+              "location": "BookStoreTest.i_verify_that_the_book_title_Git_Pocket_Guide_is_there()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@BookStore"
+          }
+        ]
+      }
+    ],
+    "name": "Verifying features for demoqa.com",
+    "description": "",
+    "id": "verifying-features-for-demoqa.com",
+    "keyword": "Feature",
+    "uri": "src/test/java/features/demoqa.feature"
+  }
+]
